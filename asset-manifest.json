@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YT-Video-React/static/css/main.073c9b0a.css",
+    "main.js": "/YT-Video-React/static/js/main.0090d0c1.js",
+    "static/js/787.b701888c.chunk.js": "/YT-Video-React/static/js/787.b701888c.chunk.js",
+    "static/media/logo.svg": "/YT-Video-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/YT-Video-React/index.html",
+    "main.073c9b0a.css.map": "/YT-Video-React/static/css/main.073c9b0a.css.map",
+    "main.0090d0c1.js.map": "/YT-Video-React/static/js/main.0090d0c1.js.map",
+    "787.b701888c.chunk.js.map": "/YT-Video-React/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0090d0c1.js"
+  ]
+}
